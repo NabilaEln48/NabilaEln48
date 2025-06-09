@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabila "ELN"</h1>
-<h3 align="center">A passionate Software developer From Morocco</h3>
+<h3 align="center">A Moroccan Software Developer based in Canada, dedicated to building impactful, high-quality projects that deliver real value. </h3>
 
 - 🌱 I’m currently learning **Blender and some other frameworks**
 
