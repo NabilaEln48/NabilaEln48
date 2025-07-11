@@ -2,7 +2,7 @@
 <h3 align="center">A Moroccan Software Developer based in Canada. </h3>
 <p>Dedicated to building impactful, high-quality projects that deliver real value. </p>
 
-- 🤔 When I'm not coding, I'm probably drawing, learning to skateboard, Surfing, or telling myself to take a break and then not doing that.
+- 😁 When I'm not coding, I'm probably sketching, Playing POOL🎱, or Surfing🏄🏼‍♀.
 
 - 👨‍💻 All of my projects are available at [elnabilam.com](elnabilam.com)
 
