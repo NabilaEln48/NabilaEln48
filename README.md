@@ -2,11 +2,11 @@
 <h3 align="center">A Moroccan Software Developer based in Canada. </h3>
 <p>Dedicated to building impactful, high-quality projects that deliver real value. </p>
 
-- 🌱 I’m currently learning **Blender and some other frameworks**
+- 🤔 When I'm not coding, I'm probably drawing, learning to skateboard, Surfing, or telling myself to take a break and then not doing that.
 
 - 👨‍💻 All of my projects are available at [elnabilam.com](elnabilam.com)
 
-- 💬 Ask me about **any project in your mind that I can help you with**
+- 💬 Feel free to reach out if you have any project ideas or just want to chat about anything! 
 
 - 📫 How to reach me **nabilaelnm@gmail.com**
 
