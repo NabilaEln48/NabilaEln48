@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nabila "ELN"</h1>
 <h3 align="center">A Moroccan Software Developer based in Canada. </h3>
-<p>Dedicated to building impactful, high-quality projects that deliver real value. </p>
-
-- 😁 When I'm not coding, I'm probably sketching, Playing POOL🎱, or Surfing🏄🏼‍♀.
-
-- 👨‍💻 All of my projects are available at [elnabilam.com](elnabilam.com)
-
-- 💬 Feel free to reach out if you have any project ideas or just want to chat about anything! 
-
-- 📫 How to reach me **nabilaelnm@gmail.com**
+<p class="text-gray-400 text-base leading-relaxed">
+          <strong class="text-green-400 font-medium">I’m ELN,</strong>
+          a full-stack developer with hands-on experience building web applications from front-end to back-end.
+          My work focuses on writing clean, maintainable code and creating reliable, user-friendly systems.
+          <br> <br>
+          I have experience working with databases, APIs, and modern development tools, and I enjoy turning ideas into functional, well-structured applications.
+          I continuously improve my skills through real projects and practical problem-solving.
+        </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
