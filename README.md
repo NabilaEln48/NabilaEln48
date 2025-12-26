@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nabila "ELN"</h1>
+<h1 align="center">Hi 👋 I'm ELN</h1>
 <h3 align="center">Software Developer based in Canada. </h3>
 <p class="text-gray-400 text-base leading-relaxed">
           <strong class="text-green-400 font-medium">I’m ELN,</strong>
