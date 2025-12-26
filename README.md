@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabila "ELN"</h1>
-<h3 align="center">A Moroccan Software Developer based in Canada. </h3>
+<h3 align="center">Software Developer based in Canada. </h3>
 <p class="text-gray-400 text-base leading-relaxed">
           <strong class="text-green-400 font-medium">I’m ELN,</strong>
           a full-stack developer with hands-on experience building web applications from front-end to back-end.
