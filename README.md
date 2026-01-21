@@ -81,14 +81,6 @@
 <h3 align="left">GitHub Activity</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NabilaEln48" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NabilaEln48&show_icons=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabilaEln48&layout=compact" alt="Top Languages"/>
 </p>
 
