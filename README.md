@@ -1,5 +1,5 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
-<h3 align="center">I'm ELN a Software Developer based in Canada.</h3>
+<h3>I'm ELN a Software Developer based in Canada.</h3>
 
 <p class="text-gray-400 text-base leading-relaxed">
   <strong class="text-green-400 font-medium">I’m ELN,</strong>
