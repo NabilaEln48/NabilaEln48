@@ -32,9 +32,7 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  </a>
+
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
   </a>
@@ -43,10 +41,7 @@
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/>
-  </a>
+
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
   </a>
@@ -76,20 +71,3 @@
   </a>
 </p>
 
-<hr>
-
-<h3 align="left">GitHub Activity</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabilaEln48&layout=compact" alt="Top Languages"/>
-</p>
-
-<hr>
-
-<h3 align="left">Certifications</h3>
-
-<ul>
-  <li>🐍 <strong>Python Developer</strong> — SoloLearn</li>
-  <li>🗄️ <strong>SQL – Full Stack Development</strong> — SoloLearn</li>
-  <li>🤖 <strong>Elements of AI</strong> — University of Helsinki</li>
-</ul>
