@@ -18,10 +18,10 @@
 
 ## 👨‍💻 About Me
 
-- 💻 **Profession:** Backend Software Engineer specializing in Python, FastAPI, and scalable automation systems[cite: 1].
-- ⚡ **Focus:** Designing reliable backend architectures, optimizing data pipelines, and improving system performance[cite: 1].
-- 🧩 **Core Interests:** Backend architecture, data ingestion, system automation, and maintainability[cite: 1].
-- 🚀 **Latest Work:** Architected async ingestion pipelines for tracking thousands of roles and built AI-assisted resume analysis modules[cite: 1].
+- 💻 **Profession:** Backend Software Engineer specializing in Python, FastAPI, and scalable automation systems.
+- ⚡ **Focus:** Designing reliable backend architectures, optimizing data pipelines, and improving system performance.
+- 🧩 **Core Interests:** Backend architecture, data ingestion, system automation, and maintainability.
+- 🚀 **Latest Work:** Architected async ingestion pipelines for tracking thousands of roles and built AI-assisted resume analysis modules.
 
 ---
 
