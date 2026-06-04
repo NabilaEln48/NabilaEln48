@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d3748,100:1a1a2e&height=200&section=header&text=Nabila%20M.-ELN&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d3748,100:1a1a2e&height=200&section=header&text=Nabila%20M. ELN&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
   
   <h3>Backend Software Engineer • Python & FastAPI Specialist</h3>
 
   <p>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://elnabilam.com"><img src="https://img.shields.io/badge/PORTFOLIO-12100E?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-    <img src="https://img.shields.io/github/followers/elnabilam?label=Followers&style=for-the-badge&color=211F1F" />
+    <a href="[https://linkedin.com](https://www.linkedin.com/in/nabilaeln48/)"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://[elnabilam.com](https://www.elntheinfinite.online/)"><img src="https://img.shields.io/badge/PORTFOLIO-12100E?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://x.com"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   </p>
 
   <p>
