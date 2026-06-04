@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d3748,100:1a1a2e&height=200&section=header&text=Nabila%20M. ELN&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d3748,100:1a1a2e&height=200&section=header&text=Nabila%20M.-ELN&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
   
   <h3>Backend Software Engineer • Python & FastAPI Specialist</h3>
 
