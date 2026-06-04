@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d3748,100:1a1a2e&height=200&section=header&text=Nabila%20M&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d3748,100:1a1a2e&height=200&section=header&text=Nabila%20M.-ELN&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
   
   <h3>Backend Software Engineer • Python & FastAPI Specialist</h3>
 
@@ -52,15 +52,6 @@
 
 ---
 
-## 🏆 Trophies
-[![github profile trophy](https://github-profile-trophy.vercel.app/?username=NabilaEln48&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NabilaEln48&theme=react-dark&area=true&hide_border=true" width="100%" />
-</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:2d3748&height=100&section=footer" width="100%" />
