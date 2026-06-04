@@ -4,10 +4,10 @@
   <h3>Backend Software Engineer • Python & FastAPI Specialist</h3>
 
   <p>
-    <a href="[https://linkedin.com](https://www.linkedin.com/in/nabilaeln48/)"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://[elnabilam.com](https://www.elntheinfinite.online/)"><img src="https://img.shields.io/badge/PORTFOLIO-12100E?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-    <a href="https://x.com"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  </p>
+  <a href="https://www.linkedin.com/in/nabilaeln48/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.elntheinfinite.online/"><img src="https://img.shields.io/badge/PORTFOLIO-12100E?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://x.com"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
 
   <p>
     <code>Python Specialist</code> <code>Backend Architecture</code> <code>Automation & AI</code>
